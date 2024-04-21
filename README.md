@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Firdavs Tursunov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaykum+Warohmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=640&height=100&lines=Assalamu+Alaykum+Warohmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;A+Front-end+developer+from+Uzbekistan,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tursunovfirdavs&label=Profile%20views&color=0e75b6&style=flat" alt="tursunovfirdavs" /> </p>
-<p><img width="300px" height="220px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img width="280px" height="210px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br/>
-<br/>
+
 - 🔭 I’m currently working on **test**
 
 - 🌱 I’m currently learning **Next js**
