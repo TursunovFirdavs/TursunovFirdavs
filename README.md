@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdavs Tursunov</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=640&height=100&lines=Assalamu+Alaykum+Warohmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;A+Front-end+developer+from+Uzbekistan,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/TursunovFirdavs"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=640&height=100&lines=Assalamu+Alaykum+Warohmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;A+Front-end+developer+from+Uzbekistan,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -68,7 +68,7 @@
 <br>
 
  <p align="center">
-    <a href="https://github.com/chakravarthi-v">
+    <a href="https://github.com/TursunovFirdavs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TursunovFirdavs&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
   <a href="https://github.com/TursunovFirdavs">
