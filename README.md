@@ -33,7 +33,7 @@
 <img alt="choubari" src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZ96y5283SsMP9qWhm3goWZ37KawSHOorpCBPqXGkQ&s" width="40">
+<img alt="choubari" src="https://thumbs.dreamstime.com/b/html-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-html-logo-editorial-illustrative-white-208329416.jpg" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
