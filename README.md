@@ -33,7 +33,7 @@
 <img alt="choubari" src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png](https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png)" width="40">
+<img alt="choubari" src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg 1295w, https://static.vecteezy.com/system/resources/previews/013/313/458/large_2x/html-icon-3d-rendering-illustration-vector.jpg 2591w" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
