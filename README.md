@@ -33,16 +33,16 @@
 <img alt="choubari" src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://thumbs.dreamstime.com/b/html-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-html-logo-editorial-illustrative-white-208329416.jpg" width="40">
+<img alt="choubari" src="https://static.vecteezy.com/system/resources/thumbnails/013/313/458/small/html-icon-3d-rendering-illustration-free-vector.jpg" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+<img alt="choubari" src="https://static.vecteezy.com/system/resources/thumbnails/013/313/458/small/html-icon-3d-rendering-illustration-free-vector.jpg" width="40">
   </a>
  <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+<img alt="choubari" src="https://thumbs.dreamstime.com/b/javascript-logo-editorial-illustrative-white-background-javascript-logo-editorial-illustrative-white-background-eps-download-208329455.jpg" width="40">
   </a>
  <a href="https://www.typescriptlang.com/">
-<img alt="choubari" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="40">
+<img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40">
  </a>
  <a href="https://reactjs.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
