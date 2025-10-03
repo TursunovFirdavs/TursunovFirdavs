@@ -33,9 +33,11 @@
 <img alt="choubari" src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://static.vecteezy.com/system/resources/thumbnails/013/313/458/small/html-icon-3d-rendering-illustration-free-vector.jpg" width="40">
+<img alt="choubari" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
+   <img alt="choubari" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40">
+
  </a>
  <a href="https://en.wikipedia.org/wiki/JavaScript">
 <img alt="choubari" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="40">
@@ -44,7 +46,7 @@
 <img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40">
  </a>
  <a href="https://reactjs.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+<img alt="choubari" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="40">
   </a>
  <a href="https://figma.com/">
 <img alt="choubari" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" width="40">
